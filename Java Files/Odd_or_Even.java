@@ -1,9 +1,9 @@
 import java.util.*;
 
-public class Odd_or_Even 
+public class Odd_or_Even
 {
 
-	public static void main(String[] args) 
+	public static void main(String[] args)
 	{
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Please enter an integer to test:");
